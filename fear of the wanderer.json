@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Fear of the Wanderer",
+    "description": "Welcome to Fear of the Wanderer! A TTW and New Vegas list designed as a base for other lists! This is a no-graphics list, so if you wanted a list with any graphical improvements, this list isn't for you. If you however, wanted a list that is all bug fixes and performance, this is the list for you. This list is also designed as a modder's resource, as it contains mods such as Hot Reload, Geck Extender, and so much more. So, what are you waiting for? If you want to sit back, relax and begin to kick ass, then this is the list for you!",
+    "author": "StrawChannel95",
+    "maintainers": [
+      "github/StrawChannel95"
+    ],
+    "game": "falloutnewvegas",
+    "tags": [
+      "Vanilla Plus",
+      "Stability",
+      "Performace",
+      "Modder's Resource"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "<link to an image to show in the UI>",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "<your discord link here>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
